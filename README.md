@@ -7,3 +7,5 @@ Using only the `cd`, `ls` and `cp` commands (don't use finder or mkdir), copy fo
 # Tips
 * Use tab completion to help you narrow down what folders to copy
 
+# This is an exercise
+* This instruction is here, simply because I'm showing something to the class
